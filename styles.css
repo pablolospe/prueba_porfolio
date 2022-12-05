@@ -1,0 +1,28 @@
+.lead{
+    color: grey;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+.verde {
+    background-color: green;
+}
+
+.gris {
+    background-color: rgb(199, 197, 197);
+}
+
+.blanco {
+    background-color: white;
+}
+
